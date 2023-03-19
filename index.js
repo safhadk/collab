@@ -1,4 +1,4 @@
-console.log('safad')
+console.log('kiran')
 
 const name=()=>{
   console.log('brototype')
